@@ -185,3 +185,13 @@ For any issues, check that:
 2. The `uploads/news/` folder is writable
 3. PHP version is 7.2+
 4. MySQL version is 5.6+
+
+  <img width="1920" height="1020" alt="Screenshot 2026-02-27 135859" src="https://github.com/user-attachments/assets/457bc775-ccfb-4a1a-8bd9-fa840b9c7c88" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 135932" src="https://github.com/user-attachments/assets/7abdaccc-8071-46e0-8e72-8c78e727f8bd" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 135944" src="https://github.com/user-attachments/assets/373544d7-aa69-4360-9fa9-b117025a56df" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140003" src="https://github.com/user-attachments/assets/c57d029b-23ef-4463-9aaf-63860ff6dc72" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140011" src="https://github.com/user-attachments/assets/f21ec43c-b053-40e8-8f4c-c338bd6aeb9a" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140023" src="https://github.com/user-attachments/assets/acb4ccb0-b7db-41a6-a75c-5a7b04df9dbb" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140034" src="https://github.com/user-attachments/assets/6ed9be9f-f56d-4ac9-827f-eaf925a62734" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140054" src="https://github.com/user-attachments/assets/01085df4-75bb-465c-aa32-75c340ab9652" />
+  <img width="1920" height="1080" alt="Screenshot 2026-02-27 140102" src="https://github.com/user-attachments/assets/2611b3e5-7774-4f38-bd0f-95208383f7ea" />
