@@ -2,17 +2,6 @@
 
 A full-featured, modern news portal built with **PHP**, **MySQL**, **jQuery**, and **vanilla CSS**. Includes an admin panel, AI tools, user authentication, social login, and much more.
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110325" src="https://github.com/user-attachments/assets/3650ff2b-50ec-4709-a018-f8b9dabad3c1" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110343" src="https://github.com/user-attachments/assets/de616a3d-2b31-43e4-b4d5-d8b4f23b7ee0" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110354" src="https://github.com/user-attachments/assets/39af20ac-749f-4581-9875-9f5fc44ea802" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110401" src="https://github.com/user-attachments/assets/f3aa023f-005a-4d22-abfc-f8c87cde2dca" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110412" src="https://github.com/user-attachments/assets/02eefbd5-35c1-44ab-868d-bd1781f51384" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110420" src="https://github.com/user-attachments/assets/59d240ff-1851-4d4a-a541-407b5165a90d" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110441" src="https://github.com/user-attachments/assets/c7cfef57-ebfc-44b3-9e2f-e6bacb5dd8b9" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110500" src="https://github.com/user-attachments/assets/ebc56b7e-408f-47df-b10b-2df24af17773" />
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 110449" src="https://github.com/user-attachments/assets/340e4505-94ba-429b-ba6d-3a538e43b331" />
-
-
 ---
 
 ## 🚀 Features
@@ -392,8 +381,15 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📸 Screenshots
 
-> Add screenshots of your portal here after uploading to GitHub.
-> Go to your repo → Edit README → drag and drop images.
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110325" src="https://github.com/user-attachments/assets/3650ff2b-50ec-4709-a018-f8b9dabad3c1" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110343" src="https://github.com/user-attachments/assets/de616a3d-2b31-43e4-b4d5-d8b4f23b7ee0" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110354" src="https://github.com/user-attachments/assets/39af20ac-749f-4581-9875-9f5fc44ea802" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110401" src="https://github.com/user-attachments/assets/f3aa023f-005a-4d22-abfc-f8c87cde2dca" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110412" src="https://github.com/user-attachments/assets/02eefbd5-35c1-44ab-868d-bd1781f51384" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110420" src="https://github.com/user-attachments/assets/59d240ff-1851-4d4a-a541-407b5165a90d" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110441" src="https://github.com/user-attachments/assets/c7cfef57-ebfc-44b3-9e2f-e6bacb5dd8b9" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110500" src="https://github.com/user-attachments/assets/ebc56b7e-408f-47df-b10b-2df24af17773" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 110449" src="https://github.com/user-attachments/assets/340e4505-94ba-429b-ba6d-3a538e43b331" />
 
 ---
 
