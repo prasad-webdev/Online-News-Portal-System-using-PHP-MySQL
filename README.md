@@ -4,6 +4,9 @@ A full-featured, modern news portal built with **PHP**, **MySQL**, **jQuery**, a
 
 ---
 
+Live link - https://newsportal-n.infinityfree.me/
+
+
 ## 🚀 Features
 
 ### 🌐 Frontend
